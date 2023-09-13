@@ -18,3 +18,5 @@ Example - if a file called test.png was located in this folder:
 ## Task 1: your favourite animal
 
 For this task, please include an image as described in the [Assignment 0](A0.md) file below:
+
+![This is a cute picture of some pandsa](images/panda.jpg)
